@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demo-reavt-app/static/css/main.f855e6bc.css",
+    "main.js": "/demo-reavt-app/static/js/main.0c35ac09.js",
+    "static/js/453.49696369.chunk.js": "/demo-reavt-app/static/js/453.49696369.chunk.js",
+    "static/media/logo.svg": "/demo-reavt-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/demo-reavt-app/index.html",
+    "main.f855e6bc.css.map": "/demo-reavt-app/static/css/main.f855e6bc.css.map",
+    "main.0c35ac09.js.map": "/demo-reavt-app/static/js/main.0c35ac09.js.map",
+    "453.49696369.chunk.js.map": "/demo-reavt-app/static/js/453.49696369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c35ac09.js"
+  ]
+}
